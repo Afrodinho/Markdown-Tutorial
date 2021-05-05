@@ -1,6 +1,6 @@
 #What is Markdown
 
-![](https://user-images.githubusercontent.com/54389183/117219143-45253f00-adca-11eb-8a1d-f8cf666ca543.jpeg)
+![](https://user-images.githubusercontent.com/54389183/117217577-3426fe80-adc7-11eb-8234-0e2b7b299e58.JPG)
 
 Markdown is a plaintext editor that has formatting abilities. If you've already had the opportunity to edit a document in markdown you might've already noticed that it looks just like a TextEdit on Mac or Notepad on Windows
 
