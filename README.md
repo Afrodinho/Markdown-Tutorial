@@ -20,14 +20,12 @@ Follow the links at the bottom of the page to naviagate through the tutorial.
 
 
 #### How to in Markdown:
-[#### How to in Markdown:
 [ReadMe/Homepage](https://github.com/Afrodinho/Markdown-Tutorial)
 
 [What is Markdown?](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/What%20is%20Markdown%3F.md)
 
-[How to Link Websites and other Links]
+[How to Link Websites and other Links](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/How%20to%20Link%20Websites.md)
 
-[How to Embed Photos]
+[How to Embed Photos](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/How%20to%20Embed%20Photos.md)
 
-[How to put Code in Blocks]
 
