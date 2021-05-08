@@ -17,3 +17,12 @@ Here is how you do it.
 ```
 
 This is usefull for linking to other pages while still conveying a message.
+
+#### How to in Markdown:
+[ReadMe/Homepage](https://github.com/Afrodinho/Markdown-Tutorial)
+
+[What is Markdown?](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/What%20is%20Markdown%3F.md)
+
+[How to Link Websites and other Links](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/How%20to%20Link%20Websites.md)
+
+[How to Embed Photos](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/How%20to%20Embed%20Photos.md)
