@@ -9,7 +9,7 @@ So for instance I had to use GitHub to post this tutorial but I don't really lik
 If you know any other coding language you will be able to figure out Markdown easily. Likewise if you are proficiant with Microsoft word, you will figure Markdown easily once you know how to do certain things.
 
 #### How to in Markdown:
-[ReadMe/Homepage](
+[ReadMe/Homepage](https://github.com/Afrodinho/Markdown-Tutorial)
 
 [What is Markdown?](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/What%20is%20Markdown%3F.md)
 
