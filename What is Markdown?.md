@@ -5,3 +5,14 @@
 Markdown is a plaintext editor that has formatting abilities. If you've already had the opportunity to edit a document in markdown you might've already noticed that it looks just like a TextEdit on Mac or Notepad on Windows.
 
 So for instance I had to use GitHub to post this tutorial but I don't really like the way I cannot see how something looks live as I am typing it. I just see it like a plain text. So I usually use another website to create what I want and copy to GitHub.
+
+If you know any other coding language you will be able to figure out Markdown easily. Likewise if you are proficiant with Microsoft word, you will figure Markdown easily once you know how to do certain things.
+
+## Links to tutorials
+[Homepage/Readme](
+
+[What is Markdown](
+
+[How to Block Code](
+
+[How to Link Photos](
