@@ -5,7 +5,7 @@ Hi My name is Kaden! In the Spring semester of 2021 I was enrolled in the Digita
 
 Follow the links at the bottom of the page to naviagate through the tutorial.
 
-![](https://user-images.githubusercontent.com/54389183/117217577-3426fe80-adc7-11eb-8234-0e2b7b299e58.JPG)
+<img src="https://user-images.githubusercontent.com/54389183/117217577-3426fe80-adc7-11eb-8234-0e2b7b299e58.JPG" width ="300">
 
 
 
@@ -20,7 +20,10 @@ Follow the links at the bottom of the page to naviagate through the tutorial.
 
 
 #### How to in Markdown:
-[What is Markdown?]
+[#### How to in Markdown:
+[ReadMe/Homepage](https://github.com/Afrodinho/Markdown-Tutorial)
+
+[What is Markdown?](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/What%20is%20Markdown%3F.md)
 
 [How to Link Websites and other Links]
 
