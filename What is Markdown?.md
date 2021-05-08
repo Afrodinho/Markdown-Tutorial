@@ -8,11 +8,12 @@ So for instance I had to use GitHub to post this tutorial but I don't really lik
 
 If you know any other coding language you will be able to figure out Markdown easily. Likewise if you are proficiant with Microsoft word, you will figure Markdown easily once you know how to do certain things.
 
-## Links to tutorials
-[Homepage/Readme](
+#### How to in Markdown:
+[What is Markdown?]
 
-[What is Markdown](
+[How to Link Websites and other Links]
 
-[How to Block Code](
+[How to Embed Photos]
 
-[How to Link Photos](
+[How to put Code in Blocks]
+
