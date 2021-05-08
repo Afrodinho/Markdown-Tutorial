@@ -22,4 +22,13 @@ You can also upload images into your github repository and link them if you don'
 
 ### Drag and drop
 
-I believe this only works on github but you can drag a photo (or any file) by dragging the image into the file you want.
+I believe this only works on github but you can drag a photo (or any file) by dragging the image into the file you want. Then your photo will be uploaded on github.
+
+#### How to in Markdown:
+[ReadMe/Homepage](https://github.com/Afrodinho/Markdown-Tutorial)
+
+[What is Markdown?](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/What%20is%20Markdown%3F.md)
+
+[How to Link Websites and other Links](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/How%20to%20Link%20Websites.md)
+
+[How to Embed Photos](https://github.com/Afrodinho/Markdown-Tutorial/blob/main/How%20to%20Embed%20Photos.md)
